@@ -20,8 +20,7 @@
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
     <li><a href="#Contact"> ➤ Contact</a></li>
-    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+    
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-Block-1-Data-Analysis"> About Block 1 Data Analysis</h2>
 
