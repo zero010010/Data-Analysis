@@ -19,6 +19,7 @@
     <li><a href="#about-Block-1-Data-Analysis"> ➤ About Block 1 Data Analysis</a></li>
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
+    <li><a href="#Contact"> ➤ Contact</a></li>
     ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ABOUT THE PROJECT -->
@@ -30,9 +31,13 @@
  More specifically, this course include an introduction to statistics, then it shows how to define single and multi-dimensional NumPy arrays, perform mathematical operations in NumPy, perform arrays slicing and indexing, understanding pandas, visualization, and reporting through hands-on projects.
  
 The course provides an excellent learning tool for creating strategies and correct business decisions from the data at hand. It also includes data ingestion, data preparation, data wrangling, and data aggregation </p>
-<p align="center"> 
-  <img src="images/pandas.png" alt="HAR Logo" width="80px" height="80px">
 
+
+<p align="center"> 
+  <img src="images/sql.png" alt="" width="80px" height="80px">        
+  <img src="images/pandas.png" alt="" width="80px" height="80px">        
+  <img src="images/numpy.png" alt="" width="80px" height="80px">
+</p>
 
 </p>
 
@@ -58,8 +63,19 @@ The following open source packages are used in this course:
 <!-- :paw_prints:-->
 <!-- FOLDER STRUCTURE -->
 <h2 id="folder-structure"> Folder Structure</h2>
+
+
 <p align="center"> 
   <img src="images/Folders.png" alt="HAR Logo" width="500px" height="500px">
 
+<h2 id="Contact"> Contact</h2>
 
-   
+
+<p style="font-family: Arial; font-size: 20px; font-weight: ;">Juan Miguel López Piñero</p>
+
+  
+<p align="left"> 
+  <a href="mailto:juanmiguelopezpinero@iclou.com"><img src="images/cloud.png" alt="Cloud Logo" width="80px" height="80px"></a>          
+  <a href="https://www.linkedin.com/in/miguellopez19/"><img src="images/linkdn.png" alt="LinkedIn Logo" width="80px" height="80px"></a>          
+  <a href="https://www.kaggle.com/jmlpezpinero/"><img src="images/kaggle.png" alt="Kaggle Logo" width="80px" height="80px"></a>
+</p>
